@@ -9,4 +9,4 @@ It's written in Python by using requests library.
     - Monitor thier website, or multiple websites,
     - Offer website check every 60 seconds,
     - Send Email/SMS/Slack/Discord notification if website is down.
-    - There is already SaaS companies which are providing these service.
+    - There is already SaaS companies which are providing these service, so there is demand!
